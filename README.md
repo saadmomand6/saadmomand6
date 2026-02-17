@@ -33,6 +33,7 @@
 ![Google Maps](https://img.shields.io/badge/Google_Maps-34A853?style=for-the-badge&logo=google-maps&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Video Calling](https://img.shields.io/badge/Video_Calling-FF0000?style=for-the-badge&logo=webrtc&logoColor=white)
+![Push Notifications](https://img.shields.io/badge/Push_Notifications-FF9800?style=for-the-badge&logo=firebase&logoColor=white)
 
 <!-- <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhail-Murtaza&layout=compact&langs_count=7&theme=monokai"/></p> -->
 
