@@ -13,11 +13,14 @@
 
 ### 🚀 Proficient in:
 
-| <img align="center" title="Flutter" alt="flutter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> | <img align="center" title="Dart" alt="dart" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"> | <img align="center" title="Firebase" alt="firebase" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"> | <img align="center" title="Python" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> | <img align="center" title="MySQL" alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> | <img align="center" title="Stripe" alt="stripe" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-original.svg"> 
+| <img align="center" title="Flutter" alt="flutter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> | <img align="center" title="Dart" alt="dart" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"> | <img align="center" title="Firebase" alt="firebase" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"> | <img align="center" title="Python" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> | <img align="center" title="MySQL" alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> | <img align="center" title="Stripe" alt="stripe" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg"> 
 | --| --| --| --| --| --|
 
-| <img align="center" title="Provider" alt="provider" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> | <img align="center" title="GetX" alt="getx" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> | <img align="center" title="BLoC" alt="bloc" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> | <img align="center" title="MVVM" alt="mvvm" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"> | <img align="center" title="MVC" alt="mvc" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"> | <img align="center" title="Google Maps" alt="googlemaps" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlemaps/googlemaps-original.svg"> | <img align="center" title="Video Calling" alt="videocall" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/724/724664.png"> 
-| --| --| --| --| --| --| --|
+
+### 🧠 State Management
+![Provider](https://img.shields.io/badge/Provider-4285F4?style=for-the-badge)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
+![BLoC](https://img.shields.io/badge/BLoC-0175C2?style=for-the-badge)
 
 
 
