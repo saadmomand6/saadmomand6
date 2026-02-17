@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saad Khan</h1>
-- Reach me at **saadmohhammad608@gmail.com**
+- Reach me at **saadmohammad608@gmail.com**
 <h3 align="center">Flutter Developer | Firebase | Mobile App Enthusiast</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Firebase+Expert;Software+Engineer;App+Architect&center=true&width=500&height=45">
@@ -12,9 +12,8 @@
 <h3 align="left">Languages and Tools:</h3>
 
 ### 🚀 Proficient in:
-
-| <img align="center" title="Flutter" alt="flutter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> | <img align="center" title="Dart" alt="dart" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"> | <img align="center" title="Firebase" alt="firebase" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"> | <img align="center" title="Python" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> | <img align="center" title="MySQL" alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> | <img align="center" title="Stripe" alt="stripe" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg"> 
-| --| --| --| --| --| --|
+| <img align="center" title="Flutter" alt="flutter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> | <img align="center" title="Dart" alt="dart" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"> | <img align="center" title="Firebase" alt="firebase" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"> | <img align="center" title="Python" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> | <img align="center" title="MySQL" alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> | <img align="center" title="Stripe" alt="stripe" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg"> | <img align="center" title="GitHub" alt="github" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> |
+| --| --| --| --| --| --| --|
 
 
 ### 🧠 State Management
@@ -40,14 +39,6 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Suhail-Murtaza&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" alt="Suhail-Murtaza" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suhail-Murtaza&theme=monokai" alt="Suhail-Murtaza" /></p> -->
-### 📈 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=saadmomand6&show_icons=true&theme=radical&v=3" 
-  />
-</p>
-
 
 
 ### 🔥 Streak Stats
