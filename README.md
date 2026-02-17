@@ -44,9 +44,10 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=saadmomand6&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=60" 
+    src="https://github-readme-stats.vercel.app/api?username=saadmomand6&show_icons=true&theme=radical&v=3" 
   />
 </p>
+
 
 
 ### 🔥 Streak Stats
