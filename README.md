@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saad Khan</h1>
-- Reach me at **suhailmurtaza910@gmail.com**
+- Reach me at **saadmohhammad608@gmail.com**
 <h3 align="center">Flutter Developer | Firebase | Mobile App Enthusiast</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Firebase+Expert;Software+Engineer;App+Architect&center=true&width=500&height=45">
