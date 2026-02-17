@@ -1,6 +1,17 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Saad Khan</h1>
 <h3 align="center">Flutter Developer | Firebase | Mobile App Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Firebase+Expert;Clean+Code+Lover;App+Architect&center=true&width=500&height=45">
+</p>
+### 🚀 Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### 📈 GitHub Stats
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
 
 <!--
 **saadmomand6/saadmomand6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
