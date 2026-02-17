@@ -41,7 +41,8 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suhail-Murtaza&theme=monokai" alt="Suhail-Murtaza" /></p> -->
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saadmomand6&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saadmomand6&show_icons=true&theme=tokyonight&hide_border=true)
+
 
 
 ### 🔥 Streak Stats
